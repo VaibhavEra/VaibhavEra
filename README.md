@@ -44,13 +44,7 @@ Currently, I’m focused on:
 
 Feel free to explore my repositories, open an issue, or reach out to me for collaborations.  
 - 📧 **Email**: [Vaibhavsaini.msrit@gmail.com](mailto:Vaibhavsaini.msrit@gmail.com)  
-- 💬 **LinkedIn**: [linkedin.com/in/vaibhavsaini15](#https://www.linkedin.com/in/vaibhavsaini15/)  
-- 🐦 **Twitter**: [@VaibhavEra](#https://x.com/VaibhavEra)  
+- 💬 **LinkedIn**: [linkedin.com/in/vaibhavsaini15](https://www.linkedin.com/in/vaibhavsaini15/)  
+- 🐦 **Twitter**: [@VaibhavEra](https://x.com/VaibhavEra)  
 
 Happy Coding! ✨
-
-
-<!---
-VaibhavEra/VaibhavEra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
