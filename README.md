@@ -1,6 +1,6 @@
 # Welcome to My GitHub!
 
-👋 **Hey there!** I'm [Your Name], a passionate **Full-Stack Developer**, **Tech Enthusiast**, and **Creative Problem Solver** based in India. I specialize in building innovative web applications, exploring new technologies, and diving deep into **Machine Learning**, **Web Development**, and **App Development**.
+👋 **Hey there!** I'm Vaibhav, a passionate **Full-Stack Developer**, **Tech Enthusiast**, and **Creative Problem Solver** based in India. I specialize in building innovative web applications, exploring new technologies, and diving deep into **Machine Learning**, **Web Development**, and **App Development**.
 
 ## 🚀 What I Do
 
@@ -13,13 +13,13 @@
 ## 💼 My Notable Projects
 
 ### 🌟 **ShelfScore**  
-[![ShelfScore](https://via.placeholder.com/500x300)](https://github.com/yourusername/ShelfScore)  
+[![ShelfScore](https://via.placeholder.com/500x300)](https://github.com/VaibhavEra/ShelfScore)  
 A dynamic movie review platform that allows users to rate movies based on various criteria, such as visuals, sound, story, and direction. It integrates **Google OAuth** for secure authentication and uses the **TMDB API** to fetch movie data.  
 - **Tech Stack**: MERN Stack, Google OAuth, TMDB API  
 - **Features**: Movie search, user-specific movie library, dynamic styling, user ratings, and **ShelfScore** classification.
 
 ### 🌧️ **Rainfall Prediction Using Machine Learning**  
-[![Rainfall Prediction](https://via.placeholder.com/500x300)](https://github.com/yourusername/rainfall-prediction-MajorProject)  
+[![Rainfall Prediction](https://via.placeholder.com/500x300)](https://github.com/VaibhavEra/rainfall-prediction-MajorProject)  
 A machine learning model designed to predict rainfall in India based on historical data from the Indian Meteorological Department. The model achieved a strong R-squared correlation (0.7969) and was deployed with a Flask web interface.  
 - **Tech Stack**: Python, Flask, JavaScript, HTML, CSS  
 - **Techniques**: Linear Regression, Support Vector Machine, Random Forest
@@ -43,10 +43,9 @@ Currently, I’m focused on:
 ## 📬 Let's Connect!
 
 Feel free to explore my repositories, open an issue, or reach out to me for collaborations.  
-- 🌐 **Portfolio**: [your-portfolio-link.com](#)  
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)  
-- 💬 **LinkedIn**: [linkedin.com/in/your-profile](#)  
-- 🐦 **Twitter**: [@yourhandle](#)  
+- 📧 **Email**: [Vaibhavsaini.msrit@gmail.com](mailto:Vaibhavsaini.msrit@gmail.com)  
+- 💬 **LinkedIn**: [linkedin.com/in/vaibhavsaini15](#https://www.linkedin.com/in/vaibhavsaini15/)  
+- 🐦 **Twitter**: [@VaibhavEra](#https://x.com/VaibhavEra)  
 
 Happy Coding! ✨
 
