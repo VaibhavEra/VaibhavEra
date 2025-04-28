@@ -9,7 +9,9 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1000&pause=500&color=2DBA4E&background=2B313700&center=true&vCenter=true&multiline=true&width=1000&height=125&lines=Self+Taught+Web+Developer;Learning+Mordern+Web+Frameworks;Building+Creative+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1000&pause=500&color=2DBA4E&background=2B313700&center=true&vCenter=true&multiline=true&width=1000&height=125&lines=Self+Taught+Web+Developer;Learning+Mordern+Web+Frameworks;Building+Creative+Solutions)](https://git.io/typing-svg)
+
+<br/>
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25">   Tech Stack
 
