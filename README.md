@@ -9,8 +9,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1000&pause=500&color=2DBA4E&background=2B313700&center=true&vCenter=true&multiline=true&width=504&height=125&lines=Self+Taught+Web+Developer;Learning+Mordern+Web+Frameworks;Building+Creative+Solutions)](https://git.io/typing-svg)
 
-<br/>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"> Tech Stack
 <p align="left">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -43,8 +41,4 @@
   <a href="https://x.com/VaibhavEra" target="_blank">
     <img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" height="30" alt="X" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/VaibhavEra/count.svg?" alt="Visitor Counter" />
 </p>
