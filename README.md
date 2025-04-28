@@ -27,25 +27,6 @@
 
 <br/><br/>
 
-<h2 align="left">📫 Connect with Me</h2>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/vaibhavsaini15/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vaibhavsaini.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="30" alt="Gmail" />
-  </a>
-  <a href="https://discord.com/users/era_z0ne" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" height="30" alt="Discord" />
-  </a>
-  <a href="https://x.com/VaibhavEra" target="_blank">
-    <img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" height="30" alt="X" />
-  </a>
-</p>
-
-<br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VaibhavEra/VaibhavEra/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VaibhavEra/VaibhavEra/output/github-snake.svg" />
